@@ -1,87 +1,161 @@
-# 🚀 Marketing de Ferramenta - ToolMarketing
+# 🚀 Marketing de Ferramenta (ToolMarketing)
 
-**"O futuro do marketing não é persuasivo. É funcional."**  
-*Criado por Diego Martinez*  
-O ToolMarketing é uma disciplina estratégica criada por Diego Martinez, CEO e fundador da Marttenzi. Ela nasceu a partir de anos de experimentação prática em diferentes projetos e setores.
+> **“O futuro do marketing não é persuasivo. É funcional.”**  
+> Criado por **Diego Martinez**
+
+O **Marketing de Ferramenta** é uma metodologia de marketing que transforma o marketing em um **sistema funcional de entrega de valor**, baseado em utilidade real, recorrência e inteligência — e não em persuasão, promessas ou atenção forçada.
 
 ---
 
-## O que é ToolMarketing?
+## 🔎 O que é Marketing de Ferramenta?
 
-ToolMarketing é uma abordagem estratégica que substitui a persuasão por **ferramentas funcionais que entregam valor recorrente**.
+O Marketing de Ferramenta é uma abordagem estratégica que **substitui táticas persuasivas por ferramentas inteligentes** capazes de entregar valor recorrente antes, durante e depois da conversão.
 
 Não é conteúdo.  
 Não é isca digital.  
 Não é automação de funil.  
 
-É um sistema baseado em **Ferramentas de Valor Recorrente (FVRs)** — ferramentas digitais, físicas ou híbridas que operam como canais vivos e autônomos de relacionamento, inteligência e conversão.
+É uma metodologia baseada em **Ferramentas de Valor Recorrente (FVRs)** — ferramentas digitais, físicas ou híbridas que atuam como **canais autônomos e inteligentes de relacionamento, utilidade e conversão**.
 
-> A conversão não é mais o ponto de partida.  
-> **A funcionalidade vem primeiro.**
-
----
-
-## Por que isso importa?
-
-Nos últimos 20 anos, o marketing se tornou uma guerra por atenção.  
-Mas atenção não é confiança. E persuasão não é valor.
-
-**O ToolMarketing rompe esse ciclo.**
-
-- Ele **entrega antes de vender**.  
-- Ele **funciona antes de convencer**.  
-- Ele **resolve antes de pedir algo em troca**.
+A ferramenta serve antes de vender.  
+Funciona antes de convencer.  
+Entrega utilidade antes de qualquer oferta.
 
 ---
 
-### FIRE – Pilares Mercadológicos
+## 🛠️ Ferramenta de Valor Recorrente (FVR)
 
-- **Funcionalidade**: resolve uma necessidade real do usuário.  
-- **Integridade**: funciona mesmo sem conversão.  
-- **Recorrência**: entrega valor ao longo do tempo.  
-- **Experiência**: focada em usabilidade e interação.
+A **FVR** é o núcleo da metodologia.
 
-### SPAT – Pilares Técnicos
+Ela não é uma FreeTool, nem um lead magnet, nem um produto gratuito.  
+Ela é construída **para fazer marketing**.
 
-- **Estratégia**: objetivos estratégicos e posicionamento.  
-- **Processos**: fluxos replicáveis e mensuráveis.  
-- **Automação**: operação autônoma e ativa.  
-- **Tráfego**: fluxo contínuo direcionado à ferramenta.
+Uma FVR pode ser:
+- **Digital**: simuladores, dashboards, planners, configuradores.
+- **Física**: estações permanentes, salas de uso livre, experiências funcionais.
+- **Híbrida**: ferramentas digitais ativadas por QR Codes em ambientes físicos.
 
----
-
-## Conecte-se
-
-- [marketingdeferramenta.org](https://marketingdeferramenta.org)  
-- [toolmarketingbr.com](https://toolmarketingbr.com)  
-- [marketingdeherramienta.org](https://marketingdeherramienta.org)  
-- [marttenzi.com.br](https://marttenzi.com.br)
+### Características da FVR
+- Funciona com ou sem campanha
+- Gera valor recorrente
+- Atua como canal de marketing inteligente
+- Coleta comportamento, não identidade
+- Aprende com o uso
+- Converte como consequência da utilidade
 
 ---
 
-## Diego Martinez  
-- [diegomartinez.org](https://diegomartinez.org)  
-- [Instagram @diegomarttenzi](https://www.instagram.com/diegomarttenzi)  
-- [X / Twitter @diegomarttenzi](https://x.com/diegomarttenzi)  
-- [LinkedIn – diegomarttenzi](https://www.linkedin.com/in/diegomarttenzi)  
-- [Medium – @diegomarttenzi](https://medium.com/@diegomarttenzi)
+## 📐 Pilares da Metodologia
+
+### 🔹 FIRE — Pilares Mercadológicos
+- **Funcionalidade**: resolve uma dor real com ação prática.
+- **Integralidade**: tem valor mesmo sem conversão.
+- **Recorrência**: continua útil ao longo do tempo.
+- **Experiência**: foco em ação, fluidez e uso real.
+
+### 🔸 EPAT — Pilares Técnicos
+- **Estratégia**: definição da dor, objetivos e plano de ação.
+- **Processos**: caminhos que levam à conversão.
+- **Automação**: o que opera de forma autônoma.
+- **Tráfego**: como a ferramenta é alimentada e interpretada.
 
 ---
 
-## 🧪 Inovações introduzidas pelo ToolMarketing
+## 🔁 Táticas da FVR (AINCEF)
 
-O ToolMarketing apresentou um novo conjunto de conceitos e práticas que redefinem a forma como o marketing é feito:
+As táticas **não são etapas fixas** nem uma jornada linear.  
+Elas são **ativadas conforme o comportamento da ferramenta**.
 
-- **Valor antes da atenção** – a funcionalidade substitui a persuasão como base da confiança.  
-- **FVR como peça única** – uma ferramenta autônoma que integra oferta, utilidade e inteligência.  
-- **Modelo de comportamento da ferramenta** – inclui os padrões **Ciclo**, **Câmbio**, **Grafo** e **Órbita**, que explicam como o valor é gerado, espalhado e retido.  
-- **Segmentação por funcionalidade** – segmentação com base no que o usuário precisa fazer, e não em quem ele é.  
-- **Integração entre marketing e tecnologia** – criação de uma nova categoria de software funcional como canal de conversão.  
-- **Software como Marketing (SaM)** – ferramentas simples e gratuitas usadas como principal canal de entrega de valor.  
-- **Serviço como Marketing (SaM)** – serviços automatizados que entregam valor de forma recorrente antes da venda.  
-- **Execução baseada na dor do cliente** – ferramentas que resolvem, simulam ou orientam antes da conversão.  
-- **FDI – Inteligência Guiada por Funcionalidade** – inteligência gerada a partir do uso real da ferramenta, de forma ética e contínua.  
-- **FDX – Experiência Guiada por Funcionalidade** – uma experiência centrada na ação, não na atenção.  
-- **Framework operacional completo** – estrutura replicável com três níveis (estratégico, tático, operacional) e três camadas (mercado, digital, físico), passando por estratégia, desenho, implementação e otimização contínua.
+- **Atração**: leva o usuário até a ferramenta (interna ou externa).
+- **Interação**: uso direto da funcionalidade.
+- **Nutrição**: storytelling e copy baseados no uso.
+- **Conversão**: oferta montada com dados reais de interação.
+- **Fidelização**: retorno intencional por hábito, valor ou necessidade.
+
+> Importante: as táticas podem ser aplicadas de forma linear ou não linear, dependendo do comportamento da ferramenta.
 
 ---
+
+## 🧭 Comportamento da Ferramenta (CCGO)
+
+O **CCGO** define como a FVR se organiza internamente:
+
+- **Ciclo**: fluxo sequencial e previsível.
+- **Câmbio**: avanço e retorno entre etapas.
+- **Grafo**: navegação não linear, orientada por decisões.
+- **Órbita**: combinação de ciclos, câmbios e grafos em torno de objetivos.
+
+A órbita não é um comportamento isolado, mas uma **arquitetura estratégica** que agrupa múltiplos comportamentos.
+
+---
+
+## ⚙️ Fluxos Estratégicos
+
+Toda FVR deve operar com fluxos estratégicos claros:
+
+### 🔹 Funcionalidade
+Entrega prática baseada no uso real.  
+Calcular, organizar, simular, comparar, orientar.
+
+### 🔸 Relacionamento
+Resposta da ferramenta ao usuário.  
+Mensagens, feedbacks, recomendações e copy contextual.
+
+---
+
+## 🔐 Privacidade e Inteligência Ética
+
+O Marketing de Ferramenta trabalha com:
+- Rastreio por **comportamento**, não por identidade
+- Uso de **tags anônimas** e `localStorage`
+- Personalização sem coleta de dados sensíveis
+- Observação do uso, não vigilância do usuário
+
+A ferramenta aprende com o que o usuário faz — não com quem ele é.
+
+---
+
+## 🧪 Inovações Introduzidas pelo Marketing de Ferramenta
+
+- Valor antes da atenção
+- FVR como peça de marketing inteligente
+- Comportamento de ferramenta (CCGO)
+- Segmentação por funcionalidade
+- Convergência entre marketing, produto e tecnologia
+- Aplicação prática do Jobs to Be Done
+- **Software as Marketing**
+- **Service as Marketing**
+- Functionality-Driven Intelligence (FDI)
+- Functionality-Driven Experience (FDE)
+- Framework 3×3 (Estratégico, Tático, Operacional × Digital, Físico, Mercado)
+
+---
+
+## 📈 Vantagens Estratégicas
+
+- Redução do CAC
+- Aumento do LTV
+- Engajamento recorrente
+- Fidelização antes da conversão
+- Coleta ética de dados
+- Alta barreira de cópia (estratégia + UX + código)
+- Menor dependência de conteúdo e anúncios
+
+---
+
+🔗 Connect - 
+[marketingdeferramenta.org](https://marketingdeferramenta.org)
+[toolmarketingbr.com](https://toolmarketingbr.com)
+[marttenzi.com.br](https://marttenzi.com.br)
+[diegomartinez.org](https://diegomartinez.org)
+
+---
+
+## 📘 Autor
+
+**Diego Martinez**  
+Criador do Marketing de Ferramenta (ToolMarketing)  
+Estrategista, designer e desenvolvedor de sistemas funcionais de marketing
+Editora ‏ : ‎ MARTTENZI
+Data da publicação ‏ : ‎ 2 dezembro 2025
+ISBN-13 ‏ : ‎ 978-6598960001
