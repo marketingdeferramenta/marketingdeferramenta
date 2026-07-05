@@ -61,7 +61,7 @@ Uma FVR pode ser:
 
 ---
 
-## 🔁 Táticas da FVR (AINCEF)
+## 🔁 Táticas da FVR (AINCF)
 
 As táticas **não são etapas fixas** nem uma jornada linear.  
 Elas são **ativadas conforme o comportamento da ferramenta**.
@@ -117,17 +117,13 @@ A ferramenta aprende com o que o usuário faz — não com quem ele é.
 
 ## 🧪 Inovações Introduzidas pelo Marketing de Ferramenta
 
-- Valor antes da atenção
 - FVR como peça de marketing inteligente
 - Comportamento de ferramenta (CCGO)
 - Segmentação por funcionalidade
-- Convergência entre marketing, produto e tecnologia
-- Aplicação prática do Jobs to Be Done
 - **Software as Marketing**
 - **Service as Marketing**
 - Functionality-Driven Intelligence (FDI)
 - Functionality-Driven Experience (FDE)
-- Framework 3×3 (Estratégico, Tático, Operacional × Digital, Físico, Mercado)
 
 ---
 
